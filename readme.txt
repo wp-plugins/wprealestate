@@ -19,12 +19,12 @@ If you are looking to build a site where you can list property for sale or rent,
 Features
 ------------
 
-Add Property
-Add multiple property photos
-jQuery photo slider in property detailed view
-all property options so you can add any type of property listing
-multiple categories
-Property search widget - can be added in sidebar
+* Add Property
+* Add multiple property photos
+* jQuery photo slider in property detailed view
+* all property options so you can add any type of property listing
+* multiple categories
+* Property search widget - can be added in sidebar
 
 
 == Installation ==
@@ -42,13 +42,17 @@ Go to Appearance > Widgets and add the Property Search widget in your sidebar.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. A very detailed view of the property with rotating images
+2. Property listing with basic details
+3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 1.0.2 =
+* added screen shots
+
+= 1.0.1 =
+* updated readme only
 
 = 1.0 =
 * Current version is a basic one
