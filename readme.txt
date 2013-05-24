@@ -44,7 +44,7 @@ Go to Appearance > Widgets and add the Property Search widget in your sidebar.
 
 1. A very detailed view of the property with rotating images
 2. Property listing with basic details
-3- Add property screen with great additional options and custom post type for better SE ranking
+3. Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
 
