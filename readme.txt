@@ -25,6 +25,7 @@ Features
 * all property options so you can add any type of property listing
 * multiple categories
 * Property search widget - can be added in sidebar
+* 
 
 
 == Installation ==
