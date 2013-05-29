@@ -25,8 +25,8 @@ Features
 * all property options so you can add any type of property listing
 * multiple categories
 * Property search widget - can be added in sidebar
-* 
 
+For support and feedback, please [click here](http://www.etechysolutions.com.my/wordpress-real-estate-plugin/ "wordpress real estate plugin").
 
 == Installation ==
 
@@ -78,7 +78,6 @@ plugins where more information needs to be conveyed that doesn't fit into the ca
 * many more features to come soon
 
 For support and feedback, please [click here](http://www.etechysolutions.com.my/wordpress-real-estate-plugin/ "wordpress real estate plugin").
-Titles are optional, naturally.
 
 
 `<?php code(); // goes in backticks ?>`
