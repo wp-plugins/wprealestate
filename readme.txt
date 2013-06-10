@@ -4,7 +4,7 @@ Donate link: http://www.etechysolutions.com.my/
 Tags: property listing, wp real estate, wordpress real estate plugin
 Requires at least: 3.0.1
 Tested up to: 3.5
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,7 @@ Create Property Listing page
 * Just make sure the page slug is property-listing
 * Then browse the page, and it will auto list all the properties
 
+For support and feedback, please [click here](http://www.etechysolutions.com.my/wordpress-real-estate-plugin/ "wordpress real estate plugin").
 
 == Installation ==
 
@@ -54,6 +55,9 @@ Go to Appearance > Widgets and add the Property Search widget in your sidebar.
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 1.2.1 =
+* fixed slider images path
 
 = 1.2 =
 * Currency variable moved in db options
