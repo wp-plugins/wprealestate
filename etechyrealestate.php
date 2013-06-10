@@ -4,7 +4,7 @@ Plugin Name: WP Real Estate
 Plugin URI: http://etechysolutions.com.my/wordpress-real-estate-plugin/
 Description: Specially for real estate agents and people who are willing to list their property listing on their own site.
 Author: Etechy Solutions SDN BHD
-Version: 1.2.1
+Version: 1.2.2
 Author URI: http://www.etechysolutions.com.my/
 */
 
