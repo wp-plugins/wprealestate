@@ -56,7 +56,7 @@ Go to Appearance > Widgets and add the Property Search widget in your sidebar.
 
 == Changelog ==
 
-= 1.3.3 =
+= 1.3.1 =
 * updated options page with jquery saving
 * added property listing in rss feeds
 
