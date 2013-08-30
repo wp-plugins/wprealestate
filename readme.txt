@@ -1,10 +1,10 @@
 === WP Real Estate ===
 Contributors: hozyali
-Donate link: http://www.etechysolutions.com.my/
+Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
 Tags: property listing, wp real estate, wordpress real estate plugin
 Requires at least: 3.0.1
-Tested up to: 3.5.2
-Stable tag: 1.3.2
+Tested up to: 3.6
+Stable tag: 1.3.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,6 +55,9 @@ Go to Appearance > Widgets and add the Property Search widget in your sidebar.
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 1.3.3 =
+* Added sidebar and widgets support in property listing template. so property search widget can be added in listing page
 
 = 1.3.2 =
 * Beware! you will have to edit all your property listings to edit facilities again.
