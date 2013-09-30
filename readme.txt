@@ -1,10 +1,10 @@
 === WP Real Estate ===
 Contributors: hozyali
 Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
-Tags: property listing, wp real estate, wordpress real estate plugin
+Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
-Tested up to: 3.6
-Stable tag: 1.3.3
+Tested up to: 3.6.1
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,17 +21,27 @@ Features
 
 * Add Property
 * Add multiple property photos
+* Advanced property search
 * jQuery photo slider in property detailed view
 * all property options so you can add any type of property listing
 * multiple categories
 * Property search widget - can be added in sidebar
+* Advanced search widget and custom page also available
+* Custom property listing page
+* Custom manage-able property types
+* Manage the number of property listing per page
+
+NOTE: Existing users who are upgrading to this new version will need to go in settings page and update the property listing page first. And also have to update the property types in order to have the existing property listings work smooth.
 
 Create Property Listing page
 ------------------------------
 
-* Create a normal page in your wordpress site 
-* Just make sure the page slug is property-listing
-* Then browse the page, and it will auto list all the properties
+* Create a normal page in your wordpress website 
+* Then go to WPRealEstate in admin > settings and select that page for property listing
+
+Create an advanced property search page
+* Create a normal page in your wordpress website
+* In the body editor of the page, add this short code [WP_RE_ADVANCED_SEARCH]
 
 For support and feedback, please [click here](http://www.etechysolutions.com.my/wordpress-real-estate-plugin/ "wordpress real estate plugin").
 
@@ -48,6 +58,10 @@ For support and feedback, please [click here](http://www.etechysolutions.com.my/
 
 Go to Appearance > Widgets and add the Property Search widget in your sidebar.
 
+= How do I add an advanced property search widget =
+
+Go to Appearance > Widgets and add the text widget in your sidebar. then add this shortcode in it [WP_RE_ADVANCED_SEARCH]
+
 == Screenshots ==
 
 1. A very detailed view of the property with rotating images
@@ -55,6 +69,14 @@ Go to Appearance > Widgets and add the Property Search widget in your sidebar.
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 2.0 =
+* Advanced property search section added
+* Custom property type has been added. Can be adjusted from wp-admin
+* Advanced search form customization
+* Property listing page can now be chosen from the settings page
+* Property listing number to be set from settings
+
 
 = 1.3.3 =
 * Added sidebar and widgets support in property listing template. so property search widget can be added in listing page
