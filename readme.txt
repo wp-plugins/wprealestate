@@ -70,6 +70,9 @@ Go to Appearance > Widgets and add the text widget in your sidebar. then add thi
 
 == Changelog ==
 
+= 2.1 =
+* A security glitch with ajax scripts has been fixed
+
 = 2.0 =
 * Advanced property search section added
 * Custom property type has been added. Can be adjusted from wp-admin
