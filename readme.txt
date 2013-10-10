@@ -3,8 +3,8 @@ Contributors: hozyali
 Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
 Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
-Tested up to: 3.6.1
-Stable tag: 2.1
+Tested up to: 3.6.2
+Stable tag: 2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,6 +40,7 @@ Create Property Listing page
 * Then go to WPRealEstate in admin > settings and select that page for property listing
 
 Create an advanced property search page
+---------------------------------------
 * Create a normal page in your wordpress website
 * In the body editor of the page, add this short code [WP_RE_ADVANCED_SEARCH]
 
@@ -69,6 +70,10 @@ Go to Appearance > Widgets and add the text widget in your sidebar. then add thi
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 2.2 =
+* Added new fields in advanced search and customization
+* Fixed the search query to work without price fields selected.
 
 = 2.1 =
 * A security glitch with ajax scripts has been fixed
