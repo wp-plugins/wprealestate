@@ -4,7 +4,7 @@ Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
 Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
 Tested up to: 3.7.1
-Stable tag: 2.3
+Stable tag: 2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,6 +70,9 @@ Go to Appearance > Widgets and add the text widget in your sidebar. then add thi
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 2.4 =
+* Added 2 new options in settings page. Enable/Disable sidebar in Property view and listing page
 
 = 2.3 =
 * Tested all functions for wordpress 3.7.1
