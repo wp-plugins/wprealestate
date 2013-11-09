@@ -4,7 +4,7 @@ Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
 Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
 Tested up to: 3.7.1
-Stable tag: 2.4
+Stable tag: 2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,11 @@ Features
 * Manage the number of property listing per page
 
 NOTE: Existing users who are upgrading to this new version will need to go in settings page and update the property listing page first. And also have to update the property types in order to have the existing property listings work smooth.
+
+If facing 404 not found errors
+------------------------------
+
+* If you do all the settings correctly and still see 404 page not found errors, please go to your wp-admin > settings > permalinks and simply press the save button. It will reset your permalinks and make the plugins links active. Pressing the save button does not need to change the actual permalinks configuration.
 
 Create Property Listing page
 ------------------------------
@@ -70,6 +75,9 @@ Go to Appearance > Widgets and add the text widget in your sidebar. then add thi
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 2.5 =
+* Added important notes on plugin homepage
 
 = 2.4 =
 * Added 2 new options in settings page. Enable/Disable sidebar in Property view and listing page
