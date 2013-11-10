@@ -12,6 +12,10 @@ Specially for real estate agents and people who are willing to list their proper
 
 == Description ==
 
+Full usage video tutorial at http://www.youtube.com/watch?v=PDkLs5lj9G4
+
+Great options to list properties on your own website. 
+
 Specially for real estate agents and people who are willing to list their property listing on their own site.
 
 If you are looking to build a site where you can list property for sale or rent, this is the plugin you need. 
