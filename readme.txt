@@ -4,7 +4,7 @@ Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
 Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
 Tested up to: 3.8
-Stable tag: 2.7
+Stable tag: 2.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -79,6 +79,9 @@ Go to Appearance > Widgets and add the text widget in your sidebar. then add thi
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 2.8 =
+* Small bug fixed. the email message had wrong field labels for phone and email value.
 
 = 2.7 =
 * Property listing and detail view hides the items which are not filled by admin
