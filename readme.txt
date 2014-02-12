@@ -3,8 +3,8 @@ Contributors: hozyali
 Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
 Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
-Tested up to: 3.8
-Stable tag: 2.8
+Tested up to: 3.8.2
+Stable tag: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,6 +15,8 @@ Specially for real estate agents and people who are willing to list their proper
 Full usage video tutorial at http://www.youtube.com/watch?v=PDkLs5lj9G4
 
 Great options to list properties on your own website. 
+
+Newly added - Unlimited Property Photos 
 
 Specially for real estate agents and people who are willing to list their property listing on their own site.
 
@@ -41,6 +43,13 @@ If facing 404 not found errors
 ------------------------------
 
 * If you do all the settings correctly and still see 404 page not found errors, please go to your wp-admin > settings > permalinks and simply press the save button. It will reset your permalinks and make the plugins links active. Pressing the save button does not need to change the actual permalinks configuration.
+
+How to increase the number of photos limit from 10
+---------------------------------------------------
+
+* Go to WPRealEstate > Settings
+* Change the value of Max Property Photos
+* You will be allowed for the same number of photos on add and edit property screens
 
 Create Property Listing page
 ------------------------------
@@ -79,6 +88,12 @@ Go to Appearance > Widgets and add the text widget in your sidebar. then add thi
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 3.0 =
+* Unlimited property photos
+* Enable / Disable social sharing buttons on property view
+* Hide fields if not entered from admin
+* Property ID can be hidden from settings
 
 = 2.8 =
 * Small bug fixed. the email message had wrong field labels for phone and email value.
