@@ -4,7 +4,7 @@ Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
 Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
 Tested up to: 3.8.2
-Stable tag: 3.0
+Stable tag: 3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,8 +15,6 @@ Specially for real estate agents and people who are willing to list their proper
 Full usage video tutorial at http://www.youtube.com/watch?v=PDkLs5lj9G4
 
 Great options to list properties on your own website. 
-
-Newly added - Unlimited Property Photos 
 
 Specially for real estate agents and people who are willing to list their property listing on their own site.
 
@@ -36,6 +34,13 @@ Features
 * Custom property listing page
 * Custom manage-able property types
 * Manage the number of property listing per page
+
+Newly added in 3.1
+------------------
+
+* Create new page for list of properties by ad type ie; sale or rent
+* Add this shortcode [WPRE_LIST_PROPERTIES list_type=sale] or can use list_type=rent. Default is sale
+* Will be adding more filters and paramters in the shortcode listing
 
 NOTE: Existing users who are upgrading to this new version will need to go in settings page and update the property listing page first. And also have to update the property types in order to have the existing property listings work smooth.
 
@@ -77,6 +82,10 @@ For support and feedback, please [click here](http://www.etechysolutions.com.my/
 
 Go to Appearance > Widgets and add the Property Search widget in your sidebar.
 
+= How do I list properties by rent or by sale? =
+
+Add this shortcode [WPRE_LIST_PROPERTIES list_type=sale] or can use list_type=rent. Default is sale
+
 = How do I add an advanced property search widget =
 
 Go to Appearance > Widgets and add the text widget in your sidebar. then add this shortcode in it [WP_RE_ADVANCED_SEARCH]
@@ -88,6 +97,9 @@ Go to Appearance > Widgets and add the text widget in your sidebar. then add thi
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 3.1 =
+* Shortcode for property listing by rent or sale
 
 = 3.0 =
 * Unlimited property photos
