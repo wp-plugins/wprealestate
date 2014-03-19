@@ -4,7 +4,7 @@ Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
 Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
 Tested up to: 3.8.2
-Stable tag: 3.4
+Stable tag: 3.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -97,6 +97,13 @@ Go to Appearance > Widgets and add the text widget in your sidebar. then add thi
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 3.5 =
+* Added couple of additional fields in admin area
+* Admin details moved under the editor for better viewing
+* Added state field
+* Add rent price field (not use-able yet)
+* Fixed the layout issue on new theme of wordpress
 
 = 3.4 =
 * Fixed the empty commas in property location details on view page
