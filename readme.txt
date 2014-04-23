@@ -3,8 +3,8 @@ Contributors: hozyali
 Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
 Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
-Tested up to: 3.8.2
-Stable tag: 3.7
+Tested up to: 3.9
+Stable tag: 3.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,12 +35,11 @@ Features
 * Custom manage-able property types
 * Manage the number of property listing per page
 
-Newly added in 3.1
+Newly added in 4.0
 ------------------
 
-* Create new page for list of properties by ad type ie; sale or rent
-* Add this shortcode [WPRE_LIST_PROPERTIES list_type=sale] or can use list_type=rent. Default is sale
-* Will be adding more filters and paramters in the shortcode listing
+* Translation Ready
+* I am still looking for help with translation of the text. If you can help, please drop any email to hozyali@gmail.com. Thanks
 
 NOTE: Existing users who are upgrading to this new version will need to go in settings page and update the property listing page first. And also have to update the property types in order to have the existing property listings work smooth.
 
@@ -97,6 +96,9 @@ Go to Appearance > Widgets and add the text widget in your sidebar. then add thi
 3- Add property screen with great additional options and custom post type for better SE ranking
 
 == Changelog ==
+
+= 4.0 =
+* Translation supported
 
 = 3.7 =
 * Fixed the bootstrap css error some people reported.
