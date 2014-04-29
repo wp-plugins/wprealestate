@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Real Estate\n"
+"POT-Creation-Date: 2014-02-16 23:10+0800\n"
+"PO-Revision-Date: 2014-02-16 23:19+0800\n"
+"Last-Translator: Ali <hozyali@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\My Data\\RealEstate_WP_Plugin\\wp_es\\wp-content"
+"\\plugins\\4.0\n"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:106
+msgid "Property Details"
+msgstr "Detalles de la propiedad"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:140
+msgid "List Type"
+msgstr "Tipo de lista"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:144
+msgid "Sale"
+msgstr "venta"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:145
+msgid "Rent"
+msgstr "renta"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:150
+msgid "Property Name"
+msgstr "Nombre de la propiedad"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:157
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:507
+msgid "Property Type"
+msgstr "Tipo de Inmueble"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:183
+msgid "Built upto"
+msgstr "Construido hasta"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:188
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:203
+msgid "Only numbers"
+msgstr "Sólo números"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:191
+msgid "Land area"
+msgstr "Superficie del terreno"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:198
+msgid "Price"
+msgstr "precio"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:207
+msgid "Bedroom"
+msgstr "dormitorio"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:211
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:224
+msgid "Not Applicable"
+msgstr "No aplicable"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:220
+msgid "Bathroom"
+msgstr "cuarto de baño"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:233
+msgid "Furnishing"
+msgstr "mobiliario"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:245
+msgid "Tenure"
+msgstr "tenencia"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:256
+msgid "Cons. Year"
+msgstr "Año de Construcción"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:270
+msgid "Date Available"
+msgstr "Fecha de disponibilidad"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:277
+msgid "Area / Location"
+msgstr "Zona / Localidad"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:284
+msgid "Address"
+msgstr "dirección"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:291
+msgid "Zip Code"
+msgstr "Código Postal"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:297
+msgid "City"
+msgstr "ciudad"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:476
+msgid "Facility"
+msgstr "facilidad"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:477
+msgid "All Facilities"
+msgstr "Todas las instalaciones"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:478
+msgid "Parent Facility"
+msgstr "Fondo para Padres"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:479
+msgid "Parent Facility:"
+msgstr "Fondo para Padres:"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:480
+msgid "New Facility Name"
+msgstr "Nuevo Nombre de la Instalación"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:481
+msgid "Add New Facility"
+msgstr "Crear Nuevo Fondo para"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:482
+msgid "Edit Facility"
+msgstr "Editar Fondo"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:483
+msgid "Update Facility"
+msgstr "actualización del servicio"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:484
+msgid "Separate facilities with commas"
+msgstr "Instalaciones separadas con comas"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:485
+msgid "Search facilities"
+msgstr "instalaciones de la búsqueda"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:486
+msgid "Add or remove facilities"
+msgstr "Agregar o eliminar instalaciones"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:487
+msgid "Choose from the most used facilities"
+msgstr "Elija una de las instalaciones más utilizadas"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:508
+msgid "All Property Types"
+msgstr "Todos los tipos de propiedad"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:509
+msgid "Parent Property Type"
+msgstr "Padres Tipo de Inmueble"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:510
+msgid "Parent Property Type:"
+msgstr "Padres Tipo de propiedad:"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:511
+msgid "New Property Type"
+msgstr "Nuevo Tipo de Inmueble"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:512
+msgid "Add New Property Type"
+msgstr "Crear Nuevo Tipo de Inmueble"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:513
+msgid "Edit Property Type"
+msgstr "Editar Tipo de Inmueble"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:514
+msgid "Update Property Type"
+msgstr "Update Tipo de Inmueble"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:515
+msgid "Separate property types with commas"
+msgstr "Los tipos de inmueble con comas"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:516
+msgid "Search property types"
+msgstr "Tipos Buscar una propiedad"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:517
+msgid "Add or remove property types"
+msgstr "Agregar o quitar tipos de propiedad"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/etechyrealestate.php:518
+msgid "Choose from the most used property types"
+msgstr "Elija entre los tipos de propiedad más utilizados"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/library/property-images-metabox.php:26
+msgid "Add Photos"
+msgstr "Añadir fotos"
+
+#: D:\My
+#: Data\RealEstate_WP_Plugin\wp_es\wp-content\plugins\4.0/library/property-images-metabox.php:156
+msgid "Remove"
+msgstr "eliminar"
