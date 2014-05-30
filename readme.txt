@@ -1,6 +1,6 @@
 === WP Real Estate ===
 Contributors: hozyali
-Donate link: http://etechysolutions.com.my/wordpress-real-estate-plugin/
+Donate link: http://www.etechy101.com/wp-real-estate-wordpress-plugin
 Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
 Tested up to: 3.9.1
@@ -67,7 +67,7 @@ Create an advanced property search page
 * Create a normal page in your wordpress website
 * In the body editor of the page, add this short code [WP_RE_ADVANCED_SEARCH]
 
-For support and feedback, please [click here](http://www.etechysolutions.com.my/wordpress-real-estate-plugin/ "wordpress real estate plugin").
+For support and feedback, please [click here](http://www.etechy101.com/wp-real-estate-wordpress-plugin/ "wordpress real estate plugin").
 
 == Installation ==
 
@@ -235,7 +235,7 @@ plugins where more information needs to be conveyed that doesn't fit into the ca
 * built in inquiry form
 * many more features to come soon
 
-For support and feedback, please [click here](http://www.etechysolutions.com.my/wordpress-real-estate-plugin/ "wordpress real estate plugin").
+For support and feedback, please [click here](http://www.etechy101.com/wp-real-estate-wordpress-plugin/ "wordpress real estate plugin").
 Titles are optional, naturally.
 
 
