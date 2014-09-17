@@ -12,7 +12,7 @@ Specially for real estate agents and people who are willing to list their proper
 
 == Description ==
 
-Full usage video tutorial at http://www.youtube.com/watch?v=PDkLs5lj9G4
+Full usage video tutorial at http://modulat.es/wprealestate
 
 Great options to list properties on your own website. 
 
