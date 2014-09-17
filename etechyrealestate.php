@@ -4,7 +4,7 @@ Plugin Name: WP Real Estate
 Plugin URI: http://www.etechy101.com/wp-real-estate-wordpress-plugin
 Description: Real estate agents and property owners who wish to list and sell properties online. Translation friendly.
 Author: HozyAli
-Version: 4.3
+Version: 4.4
 Author URI: https://plus.google.com/u/0/+HuzaifaAli/posts
 Text Domain: wp-realestate
 Domain Path: /languages
