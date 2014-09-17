@@ -59,8 +59,13 @@ $pro_return .= '<a href="'. get_permalink($propertyQuery->ID) .'" title="'. $pro
       if (get_post_meta(get_the_ID(), 'et_er_built_size', true) <> '0') {
 	  $pro_return .= translate( 'Built Up: ', 'wp-real-estate' ).get_post_meta($propertyQuery->ID, 'et_er_built_size', true).'<br>';
 	  }
-
-      $pro_return .= translate( 'For ', 'wp-real-estate' ).$list_type.': '.ET_RE_Currency.get_post_meta($propertyQuery->ID, 'et_er_price', true).'<br>';
+$pro_ad_type2 = get_post_meta($propertyQuery->ID, 'et_er_adtype', true);
+      #$pro_return .= translate( 'For ', 'wp-real-estate' ).$list_type.': '.ET_RE_Currency.get_post_meta($propertyQuery->ID, 'et_er_price', true).'<br>';
+if ($pro_ad_type2 == 'Rent' ) { 
+    $pro_return .= translate( 'For Rent', 'wp-real-estate' ).' : '.ET_RE_Currency.get_post_meta($propertyQuery->ID, 'et_er_rent_price', true).' '.get_post_meta(get_the_ID(), 'et_er_rent_tenure', true).'<br>';
+      } else {  
+      $pro_return .= translate( 'For Sale', 'wp-real-estate' ).' : '. ET_RE_Currency.get_post_meta($propertyQuery->ID, 'et_er_price', true).'<br>';;
+      }
 
       if (get_post_meta($propertyQuery->ID, 'et_er_bedroom', true) != 'Not Applicable') {
 	  $pro_return .= translate( 'Bedrooms: ', 'wp-real-estate' ).get_post_meta($propertyQuery->ID, 'et_er_bedroom', true).'<br>';
