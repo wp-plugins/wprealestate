@@ -1,7 +1,7 @@
 <h1>WP Real Estate - <?php _e( 'Home', 'wp-realestate' ); ?></h1>
 <?php
 _e( '<p><strong>NOTE</strong>: <em>If you do all the settings correctly and still see 404 page not found errors, please go to your <a href="options-permalink.php">wp-admin &gt; settings &gt; permalinks</a> and simply press the save button. It will reset your permalinks and make the plugins links active. Pressing the save button does not need to change the actual permalinks configuration.</em></p>
-<p>A quick  video tutorial is located here <a href="http://modulat.es/wprealestate" target="_blank">http://modulat.es/wprealestate</a></p>
+<p>A quick  video tutorial is located here <a href="http://www.modulates.com/videos/how-to-build-a-real-estate-or-property-listing-website" target="_blank">http://www.modulates.com/videos/how-to-build-a-real-estate-or-property-listing-website</a></p>
 <p>Thank you for choosing WP Real Estate plugin. I hope you will like the plugin and enjoy using it. If you have any support or sales related queries, please feel free to send an email to <a href="mailto:hozyali@gmail.com">hozyali@gmail.com.</a></p>
 <h3>What is new in version 4.0</h3>
 <ul style="list-style: disc inside none;">
