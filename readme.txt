@@ -3,8 +3,8 @@ Contributors: hozyali
 Donate link: http://www.etechy101.com/wp-real-estate-wordpress-plugin
 Tags: property listing, wp real estate, wordpress real estate plugin, advanced property search
 Requires at least: 3.0.1
-Tested up to: 4.0
-Stable tag: 4.4
+Tested up to: 4.1
+Stable tag: 4.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -98,10 +98,12 @@ Go to Appearance > Widgets and add the text widget in your sidebar. then add thi
 
 == Changelog ==
 
+= 4.5 =
+* Tested on WP 4.1. Works perfect
+
 = 4.4 =
 * Tested on WP 4.0. Works perfect
 * Fixed header redirect error on activation in some browsers
-*
 
 = 4.3 =
 * inquiry form validation
